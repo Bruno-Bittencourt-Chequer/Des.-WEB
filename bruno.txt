@@ -1,0 +1,42 @@
+VScode: 
+É um editor de código de código aberto desenvolvido pela Microsoft, é a princípio uma ferramenta simples,
+ mas ele possui uma loja de extensões imensa, e que continua crescendo.
+Devido a enorme quantidade de extensões diponíveis, as necessidades são supridas. E o gosto também é atendido, já que
+você pode modificar a aparência dele manualmente ou baixar temas na loja de extensões.
+Segundo a fonte que eu realizei minha pesquisa, há nessa ferramneta a Facilidade em criar e publicar
+extensões (escritas em JavaScript ou TypeScript) e essa vantagem será a principal ao que tange o aprendizado da disciplina
+já que nela aprenderemos essas linguagens, alé disso é possível realizar a depuração diretamente do editor.
+
+https://www.remessaonline.com.br/blog/visual-studio-code-confira-as-principais-funcoes-da-ferramenta/
+
+GOOGLE CHROME:
+possui diversas vantagens para programadores, e pessoalmente é meu preferido,por ter integração direta com o google gera 
+rapidez e eficiência nas buscas, possui busca por voz que pode ser uma ferramneta a mais para o estudo, assim como a sincronização com o smartphone.
+
+https://olhardigital.com.br/2023/07/01/internet-e-redes-sociais/google-chrome-5-vantagens-do-navegador/#:~:text=O%20Google%20Chrome%20segue%20como,que%20explicam%20a%20sua%20fama.
+
+NODE:
+Permite a utilização com eficiência do JavaScript, além de possuir a tecnologia single-thread, além de gerenciar
+ frameworks e bibliotecas em uma única aplicação, com o NPM.
+
+https://www.remessaonline.com.br/blog/node-js-descubra-tudo-sobre-a-linguagem-e-suas-aplicacoes/
+
+GITHUB:
+Essa ferramenta permite um versionamento preciso, contribui com o trabalho equipe, através de forks e 
+coompartilhamento de repositórios, além de faclitar uma futura contratação , já que exibe o portfólio do programador.
+
+https://www.dio.me/articles/vantagens-transformadoras-do-uso-do-git-e-github-no-desenvolvimento-de-software
+
+SQLite Version 3
+Ferramenta que é um banco de dados relacional, capaz de criar estrutura com banco de dasos embutido.
+Ele é justamente recomendade para os nossos objetivos: Aplicativos desktop, sites mais leves e sem muitos recursos
+e Sites ou sistemas que ainda não tem muitos usuários.
+
+https://www.hostgator.com.br/blog/sqlite-o-que-e-como-funciona-e-qual-e-a-diferenca-entre-o-mysql/
+
+Python:
+Por ser uma linguagem de alto nível e estar em alta, principalmente devido à ascensão das I.As, é de grande valia aprender
+esta linguagem que é muito popular na comunidade.
+
+https://www.hostinger.com.br/tutoriais/python-o-que-e
+
