@@ -86,7 +86,7 @@ OBS:componete clinica.css
 OBS: index.js
 
 
-  import React from "react";
+ import React from "react";
 import ReactDOM from "react-dom";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { createRoot } from "react-dom/client";
@@ -108,12 +108,7 @@ import DosimetriaPreClinica from "./pages/DosimetriaPreClinica";
 const container = document.getElementById("root");
 const root = createRoot(container);
 
-ReactDOM.render(
-  <React.StrictMode>
-    <Clinica />
-  </React.StrictMode>,
-  container
-);
+// Removed rendering of Clinica from ReactDOM.render()
 
 onAuthStateChanged(auth, (user) => {
   if (user) {
@@ -133,6 +128,7 @@ root.render(
         <Route path="/atletas" element={<Atletas />} />
         <Route path="/login" element={<Login />} />
         <Route path="/logout" element={<Logout />} />
+        {/* Removed rendering of Clinica here */}
         <Route path="/clinica" element={<Clinica />} />
         <Route path="/modelagem" element={<Modelagem />} />
         <Route path="/radiosinoviortese" element={<Radiosinoviortese />} />
